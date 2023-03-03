@@ -1,4 +1,4 @@
-# Домашнє завдання
+# Домашнє завдання 01
 
 <div class="theme-doc-markdown markdown"><ul><li>Створи репозиторій <code>goit-markup-hw-01</code>.</li><li>Виконай HTML-розмітку макета сторінки
 <a href="https://www.figma.com/file/B1m2uk25m1eAgroESAuM2g/Web-Studio-(Version-3.0)?node-id=0%3A1&amp;t=LwLARWTipS3oC3O6-0" target="_blank" rel="noopener noreferrer"><strong>домашнього завдання #1</strong></a>,
